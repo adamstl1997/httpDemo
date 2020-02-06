@@ -1,11 +1,24 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Seasoned Salt",
+      "description": "Lawry's Seasoned Salt",
+      "quantity": "Qty: 1",
+      "id": 1001,
+      "imageName": "seasonedsalt"
+    },
+    {
+      "name": "Green Beans",
+      "description": "Del Monte Canned Cut Green Beans",
+      "quantity": "Qty: 1",
+      "id": 11,
+      "imageName": "greenbeans"
+    },
+    {
+      "name": "Sugar",
+      "description": "C&H Pure Cane Sugar",
+      "quantity": "Qty: 1",
+      "id": 12,
+      "imageName": "sugar"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
